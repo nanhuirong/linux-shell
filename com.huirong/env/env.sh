@@ -1,0 +1,3 @@
+输出全局变量
+env
+printenv
