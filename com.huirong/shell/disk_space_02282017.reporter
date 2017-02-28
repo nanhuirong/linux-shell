@@ -1,0 +1,22 @@
+the /var/log:
+1:	888K	/var/log/installer
+2:	292K	/var/log/apt
+3:	92K	/var/log/unattended-upgrades
+4:	76K	/var/log/lightdm
+5:	44K	/var/log/cups
+6:	12K	/var/log/fsck
+7:	8.0K	/var/log/hp
+8:	7.4M	/var/log
+9:	4.0K	/var/log/upstart
+10:	4.0K	/var/log/speech-dispatcher
+the /home:
+1:	1020K	/home/huirong/work/vmware-tools-distrib/lib/plugins64/vmsvc
+2:	1020K	/home/huirong/work/vmware-tools-distrib/lib/lib64/libvmware-modconfig-console.so
+3:	1020K	/home/huirong/.IdeaIC2016.3/system/index/stubs/sc.method.name
+4:	1016K	/home/huirong/.m2/repository/commons-io
+5:	1016K	/home/huirong/.config/libreoffice/4/user/database/biblio
+6:	1008K	/home/huirong/.m2/repository/org/apache/commons/commons-parent
+7:	1004K	/home/huirong/.m2/repository/org/xerial/snappy/snappy-java/1.0.4.1
+8:	996K	/home/huirong/.m2/repository/org/sonatype/sisu
+9:	996K	/home/huirong/.m2/repository/org/apache/commons/commons-math/2.2
+10:	996K	/home/huirong/.IdeaIC2016.3/system/compile-server/empty_ce670676
